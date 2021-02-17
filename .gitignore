@@ -1,0 +1,5 @@
+.idea
+src/vendor
+docker/redis/data
+docker/mysql/data
+docker/mongo/data
